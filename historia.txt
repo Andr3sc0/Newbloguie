@@ -1,5 +1,9 @@
-la histora de Andres Contreras
+la histora de Andres Contreras Rayo
 
 pero desde la perspectiva de programacion
 
 ahora haremos el envio por git.
+
+ya probamos la diferencia entre las categorias 
+
+ahora haremos el segundo envio y pondremos apellido.
